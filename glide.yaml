@@ -1,0 +1,7 @@
+package: github.com/xiaomLee/gothrift
+import:
+- package: example
+- package: git.apache.org/thrift.git
+  version: v0.12.0
+  subpackages:
+  - lib/go/thrift
