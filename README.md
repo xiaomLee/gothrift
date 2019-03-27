@@ -1,0 +1,2 @@
+# gothrift
+golang thrift
